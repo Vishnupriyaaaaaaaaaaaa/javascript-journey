@@ -14,6 +14,13 @@ I am solving DSA problems to improve my problem-solving skills and prepare for c
 - Check if array is sorted
 - Find missing number
 - Find repeating number
+  
+### Pattern printing
+- Pyramid
+- Hollow square
+- Hollow triangle
+- Inverted triangle
+
 ## Goal
 
 - Practice DSA daily
