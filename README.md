@@ -1,6 +1,6 @@
-This repository contains Data Structures and Algorithms practice exercises using JavaScript for beginners.
+This repository contains practice exercises using JavaScript for beginners.
 
-These DSA problems will help to improve your problem-solving skills and prepare for coding interviews.
+These problems will help to improve your problem-solving skills and prepare for coding interviews.
 
 ## Problems Solved
 
