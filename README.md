@@ -23,6 +23,7 @@ These problems will help to improve your problem-solving skills and prepare for 
 
 ### Strings
 - String reversal
+- first non-repeating character
 
 ## Goal
 
